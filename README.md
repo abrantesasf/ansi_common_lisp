@@ -1,2 +1,4 @@
-# ansi_common_lisp
-ANSI Common Lisp, de Paul Graham, 1ª edição
+# ANSI Common Lisp
+
+Repositório para minhas notas de estudo do livro **ANSI Common Lisp**, de Paul
+Graham, 1ª edição.
